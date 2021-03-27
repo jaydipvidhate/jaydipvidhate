@@ -3,7 +3,7 @@
 - 🌱 I’m currently Doing my bachelor of engineering at Pune 
 - 📫 How to reach me 
 - My Linkedin Profile
-[Linkedin](https://www.linkedin.com/in/jaydip-vidhate-6b58b31b9/https://www.linkedin.com/in/jaydip-vidhate-6b58b31b9/)
+[Linkedin](https://www.linkedin.com/in/jaydip-vidhate-6b58b31b9/)
 
 <!---
 jaydipvidhate/jaydipvidhate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
